@@ -1,3 +1,4 @@
+// NOTE: File must be Typescript or flow for the codegen and JSI 
 import type { TurboModule } from "react-native/Libraries/TurboModule/RCTExport";
 import { TurboModuleRegistry } from "react-native";
 
